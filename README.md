@@ -1,0 +1,3 @@
+# jsonPractice
+
+This is a very simple webpage to test fetching JSON data and using that data. In this example I just created a simple data.json file that is read by the index.js to display the information in the index.html. Whenever the button is clicked, the data is captured and displayed in the form of lists. This seemed the easiest way for me to test this and display all of the data. Currently the naming conventions and element ids are hard-coded, but I am curious about how to automate it for any data provided no matter size or length. May be a fun idea later, but this was mainly practice for a new project in my Developer's Playground.
