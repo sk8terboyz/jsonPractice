@@ -1,0 +1,25 @@
+{
+    "Food": {
+        "Available Food": [
+            {
+                "ID": "0",
+                "Name": "Apple",
+                "Quantity": "24",
+                "Expiration Date": ""
+            },
+            {
+                "ID": "2",
+                "Name": "Orange",
+                "Quantity": "34",
+                "Expiration Date": ""
+            }
+        ],
+        "Unavailable Food": [
+            {
+                "ID": "1",
+                "Name": "Banana",
+                "Shipment Date": ""
+            }
+        ]
+    }
+}
